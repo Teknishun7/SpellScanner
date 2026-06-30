@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: SpellScanner
+## Notes: Scans action bars for downranked spells.
+## Author: Peer
+SpellScanner.lua
